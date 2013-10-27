@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.phonegap.TransformAfrica2013"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Transform Africa 2013</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Transform Africa 2013 shall be co-hosted by H.E. President Paul Kagame and Dr. Hamadoun I. Toure, Secretary General of the International Telecommunications Union (ITU) at the Kigali Serena Hotel on 28th- 31st October 2013.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://phonegap.com" email="uwayo2006@gmail.com">
+        Uwayo Jacques
     </author>
 
     <!--
